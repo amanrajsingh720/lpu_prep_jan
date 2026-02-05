@@ -56,7 +56,11 @@ This repository is prepared to provide practise qustions for dsa
 ## Linked List
 - [ ] 43. [Reverse a Linked List](https://www.geeksforgeeks.org/dsa/reverse-a-linked-list/)
 - [ ] 44. [Middle of the Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
-- [ ] 45. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+- [ ] 57. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
+- [ ] 58. [Remove every k'th node](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1)
+- [ ] 59. [Pairwise swap of nodes in Linked List](https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1)
+- [ ] 60. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
+- [ ] 61. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 
 ## Stack + Queue
 - [ ] 46.[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
